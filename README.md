@@ -1,3 +1,1 @@
-# Disease_prediction
-# DiseasePrediction
-# DiseasePrediction
+# Disease_prediction using ML Models
