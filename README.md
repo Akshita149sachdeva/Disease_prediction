@@ -1,1 +1,2 @@
 # Disease_prediction
+# DiseasePrediction
